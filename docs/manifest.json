@@ -1,0 +1,10 @@
+{
+  "short_name": "SPA React Bootstrap App",
+  "name": "A sample SPA React Bootstrap App",
+  "icons": [
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

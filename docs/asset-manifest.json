@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/spa-react-bootstrap/static/css/main.d2fd1988.css",
+    "main.js": "/spa-react-bootstrap/static/js/main.c4698f87.js",
+    "static/js/787.78459ca7.chunk.js": "/spa-react-bootstrap/static/js/787.78459ca7.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/spa-react-bootstrap/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/spa-react-bootstrap/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/hypnotize.svg": "/spa-react-bootstrap/static/media/hypnotize.e47c562c990802f9f341a4bb442c1282.svg",
+    "static/media/balloon-heart.svg": "/spa-react-bootstrap/static/media/balloon-heart.19abbcaadb3e7004b8858451bf2ff55d.svg",
+    "index.html": "/spa-react-bootstrap/index.html",
+    "static/media/postage-heart.svg": "/spa-react-bootstrap/static/media/postage-heart.0d4a595a5367eb98c818de1f334bf233.svg",
+    "static/media/postcard-heart.svg": "/spa-react-bootstrap/static/media/postcard-heart.c1f01275936b71b8baa7dd5b8fae8049.svg",
+    "static/media/heart.svg": "/spa-react-bootstrap/static/media/heart.27cf625b15dd614828adb40336c2e861.svg",
+    "static/media/hearts.svg": "/spa-react-bootstrap/static/media/hearts.d0b70e0df7e454f72326d19c0523d0aa.svg",
+    "main.d2fd1988.css.map": "/spa-react-bootstrap/static/css/main.d2fd1988.css.map",
+    "main.c4698f87.js.map": "/spa-react-bootstrap/static/js/main.c4698f87.js.map",
+    "787.78459ca7.chunk.js.map": "/spa-react-bootstrap/static/js/787.78459ca7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2fd1988.css",
+    "static/js/main.c4698f87.js"
+  ]
+}
