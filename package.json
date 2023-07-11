@@ -1,5 +1,6 @@
 {
   "homepage": "https://agnieszkasierbista.github.io/spa-react-bootstrap",
+  "main": "public/index.html",
   "name": "spa-react-bootstrap",
   "version": "0.1.0",
   "private": true,
