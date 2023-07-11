@@ -1,6 +1,5 @@
 {
   "homepage": "https://agnieszkasierbista.github.io/spa-react-bootstrap",
-  "main": "public/index.html",
   "name": "spa-react-bootstrap",
   "version": "0.1.0",
   "private": true,
@@ -14,7 +13,7 @@
     "@types/react-dom": "^18.2.6",
     "bootstrap": "^5.3.0",
     "bootstrap-icons": "^1.10.5",
-    "node-sass": "^7.0.3",
+    "node-sass": "^9.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
